@@ -35,3 +35,25 @@
 
 Main Course : 
 - https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction
+
+Model index for researchers - openai: 
+- https://platform.openai.com/docs/model-index-for-researchers/model-index-for-researchers
+
+GPT Best Practices - openai : 
+- https://platform.openai.com/docs/guides/gpt-best-practices 
+
+
+Generative Pre-trained Transformer Models : 
+
+- GPT-1 : https://en.wikipedia.org/wiki/Generative_pre-trained_transformer
+- GPT-2 : https://en.wikipedia.org/wiki/GPT-2 
+  - paper : https://arxiv.org/ftp/arxiv/papers/1908/1908.09203.pdf
+- GPT-3 : https://en.wikipedia.org/wiki/GPT-3
+  - paper : https://arxiv.org/pdf/2005.14165.pdf
+- GPT-4 :  https://en.wikipedia.org/wiki/GPT-4
+  - paper : https://arxiv.org/pdf/2303.08774.pdf
+
+- Codex : 
+  - paper : https://arxiv.org/pdf/2107.03374.pdf
+- InstructGPT : 
+  - paper : https://arxiv.org/pdf/2203.02155.pdf
