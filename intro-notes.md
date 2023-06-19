@@ -55,5 +55,5 @@ Generative Pre-trained Transformer Models :
 
 - Codex : 
   - paper : https://arxiv.org/pdf/2107.03374.pdf
-- InstructGPT : 
+- InstructGPT (ChatGPT ancestor) : 
   - paper : https://arxiv.org/pdf/2203.02155.pdf
