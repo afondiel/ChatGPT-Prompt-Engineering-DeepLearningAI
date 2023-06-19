@@ -3,7 +3,7 @@
 
 ## Overview
 
-ChatGPT Prompt Engineering for Developers `Crash & Free Course` by DeepLearning.AI
+ChatGPT Prompt Engineering for Developers `Crash & Free Course` by [DeepLearning.AI](https://learn.deeplearning.ai/)
 
 
 ## References
