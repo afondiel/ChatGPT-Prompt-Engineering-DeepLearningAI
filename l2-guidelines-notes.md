@@ -1,4 +1,4 @@
-# Guidelines Notes
+# Lesson2: Guidelines
 
 
 ## Principles of Prompting
@@ -40,7 +40,6 @@
 
 #### Tactic 2: Instruct the model to work out its own solution before rushing to a conclusion
 - Check the example in the guideline [notebook](./lab/l2-guidelines.ipynb)
-
 
 
 ## Model Limitations: Hallucinations

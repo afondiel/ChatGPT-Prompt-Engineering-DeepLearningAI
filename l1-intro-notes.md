@@ -1,4 +1,4 @@
-#  Introduction - Notes
+# Lesson1: Introduction
 
 ## Overview
 
