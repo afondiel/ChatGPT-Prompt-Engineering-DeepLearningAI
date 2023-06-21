@@ -56,11 +56,11 @@ print(response)
 
 `Outputs`:
 
-````text
+```markdown
 The AeroGlide UltraSlim Smart Toothbrush by Boie is a high-tech toothbrush that uses advanced sonic technology to provide a deep and thorough clean. It features a slim and sleek design that makes it easy to hold and maneuver, and it comes with a range of smart features that help you optimize your brushing routine.
 ....
 
-````
+```
 
 
 ## References
