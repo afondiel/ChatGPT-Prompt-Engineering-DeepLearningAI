@@ -73,7 +73,7 @@ into a single sentence.
 response = get_completion(prompt)
 print(response)
 ```
-#### (Possible) Outputs : 
+#### Completion : 
 
 ```
 Clear and specific instructions should be provided to guide a model towards the desired output, and longer prompts can provide more clarity and context for the model, leading to more detailed and relevant outputs.
