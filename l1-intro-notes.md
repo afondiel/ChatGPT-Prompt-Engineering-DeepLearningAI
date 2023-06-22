@@ -39,10 +39,6 @@ Main Course :
 Model index for researchers - openai: 
 - https://platform.openai.com/docs/model-index-for-researchers/model-index-for-researchers
 
-GPT Best Practices - openai : 
-- https://platform.openai.com/docs/guides/gpt-best-practices 
-
-
 Generative Pre-trained Transformer Models : 
 
 - GPT-1 : https://en.wikipedia.org/wiki/Generative_pre-trained_transformer
@@ -57,3 +53,10 @@ Generative Pre-trained Transformer Models :
   - paper : https://arxiv.org/pdf/2107.03374.pdf
 - InstructGPT (ChatGPT ancestor) : 
   - paper : https://arxiv.org/pdf/2203.02155.pdf
+
+GPT Best Practices - openai : 
+- https://platform.openai.com/docs/guides/gpt-best-practices 
+
+What are Generative AI models? - IBM
+- https://www.youtube.com/watch?v=hfIUstzHs9A
+
