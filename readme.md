@@ -1,10 +1,21 @@
-# ChatGPT Prompt Engineering for Developers by DeepLearning.AI
+# ChatGPT Prompt Engineering by DeepLearning.AI
 
 
 ## Overview
 
-ChatGPT Prompt Engineering for Developers `Crash & Free Course` by [DeepLearning.AI](https://learn.deeplearning.ai/)
+This crash & free course on ChatGPT Prompt Engineering is offered by [DeepLearning.AI](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction) and lectured by `Andrew Ng` and `Isa Fulford` from [openai](openai.com).
 
+## Course Plan
+
+- [Lesson1: Introduction](./l1-intro-notes.md)
+- [Lesson2: Guidelines](./l2-guidelines-notes.md)
+- [Lesson3: Iterative](./l3-iterative-prompt-dev.md)
+- [Lesson4: Summarizing](./l4-summarizing.md)
+- [Lesson5: Inferring](./l5-summarizing.md)
+- [Lesson6: Transforming](./l6-transforming.md)
+- [Lesson7: Expanding](./l7-expanding.md)
+- [Lesson8: Chatbot](./l8-chatbot.md)
+- [Lesson9: Conclusion](./l9-conclusion.md)
 
 ## Setup
 
@@ -68,15 +79,14 @@ print(response)
 Clear and specific instructions should be provided to guide a model towards the desired output, and longer prompts can provide more clarity and context for the model, leading to more detailed and relevant outputs.
 ```
 
+
 ## References
 
 Main Course : 
 - https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction
 
-GPT models documentations : 
-- https://platform.openai.com/docs/guides/gpt
-
-
+Others short Free Courses available on DeepLearning.AI : 
+- https://learn.deeplearning.ai/
 
 
 
