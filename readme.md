@@ -17,6 +17,7 @@ This crash & free course on ChatGPT Prompt Engineering is offered by [DeepLearni
 - [Lesson8: Chatbot](./l8-chatbot.md)
 - [Lesson9: Conclusion](./l9-conclusion.md)
 
+> All notebook examples are available in the [lab](./lab/) folder.
 ## Setup
 
 Load the API key and relevant Python libaries
