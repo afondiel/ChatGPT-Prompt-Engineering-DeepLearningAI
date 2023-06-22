@@ -13,7 +13,7 @@ In this lesson, you will infer `sentiment` and `topics` from product reviews and
 -  classical ML Model : 
    -  complex and slow process
    -  need of a different model for each task (extraction, sentiment analysis..)
--  LLM models : much faster and all you is a `prompt`
+-  LLM models : much faster and all you need is a `prompt`
    -  only need one API (model) to perform many different tasks
 
 ## Application & examples
@@ -64,3 +64,8 @@ Check out the [notebook](./lab/l5-inferring.ipynb) to see more code examples.
 Main course : 
 - https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/5/inferring
 
+Introducing the Hugging Face LLM Inference Container for Amazon SageMaker : 
+- https://huggingface.co/blog/sagemaker-huggingface-llm
+
+llm-inference - Kaggle
+- https://www.kaggle.com/code/miwojc/llm-inference
