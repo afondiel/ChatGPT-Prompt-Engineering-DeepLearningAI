@@ -4,7 +4,9 @@
 
 In this lesson, you will infer `sentiment` and `topics` from product reviews and news articles.
 
-`Infering` : the model takes a text as input some tasks and performs some kinds of analysis.
+##  Inferring
+
+`Inferring` : set of tasks where the model takes a text as input and performs some kinds of analysis.
 - Ex: Extracting lables, names, understand the sentiment of text, etc
 
 **Inferring LLM vs classical ML Model**
