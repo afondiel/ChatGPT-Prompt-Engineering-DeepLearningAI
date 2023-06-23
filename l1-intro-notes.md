@@ -60,3 +60,13 @@ GPT Best Practices - openai :
 What are Generative AI models? - IBM
 - https://www.youtube.com/watch?v=hfIUstzHs9A
 
+**Cohere** - Transform your products with LLMs : https://cohere.com/
+
+**Langchains** : https://python.langchain.com/docs/get_started/introduction.html
+
+
+**huggingface** - The AI community building the future - https://huggingface.co/
+
+**anthropic** - AI research and products that put safety at the frontier
+https://www.anthropic.com/
+
