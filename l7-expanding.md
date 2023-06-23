@@ -5,6 +5,10 @@
 
 In this lesson, you will generate customer service emails that are tailored to each customer's review.
 
+### Warnings & good usage
+
+- Expanding can be used to generate a large amount of spam. 
+- It's strongly advised to use AI & LLMs in a responsible way or in a way that helps people.
 
 ### Customize the automated reply to a customer email
 
@@ -72,6 +76,24 @@ print(response)
 
 Check the [notebook](./lab/l7-expanding.ipynb) to see the final result.
 
+
+### Model responses tuning? 
+
+- Using `Temperature` parameter allows you to vary the degree of exploration and the variety of the variety of the model's responses.
+
+Temperature = `0`
+- for tasks that require realiability, predictiblity 
+
+<img src="./img/l7-temp0.png" width="600" style="border:0px solid #FFFFFF; padding:1px; margin:1px">
+
+Temperature = `0.3 - 0.7`
+- For tasks that require variety
+
+<img src="./img/l7-temp1.png" width="600" style="border:0px solid #FFFFFF; padding:1px; margin:1px">
+
+- We set the temperature to 0.7, which will change the variety/randomness of the model's responses.
+
+
 ### Remind the model to use details from the customer's email 
 
 ```python
@@ -93,6 +115,7 @@ Review sentiment: {sentiment}
 response = get_completion(prompt, temperature=0.7)
 print(response)
 ```
+
 
 `Expected Completion:` 
 
@@ -119,3 +142,6 @@ Check the [notebook](./lab/l7-expanding.ipynb) to see the examples for each of t
 
 Main course : 
 - https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/7/expanding
+
+LLM Parameters Demystified: Getting The Best Outputs from Language AI : 
+- https://txt.cohere.com/llm-parameters-best-outputs-language-ai/
