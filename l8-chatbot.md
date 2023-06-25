@@ -63,7 +63,7 @@ Your name is Isa.
 
 We can automate the collection of user prompts and assistant responses to build a OrderBot. The OrderBot will take orders at a pizza restaurant.
 
-- Check the [notebook](./lab/l8-chatbot.ipynb) to see the final result.
+- Check the [notebook](./lab/l8-chatbot.ipynb) to see the entire implementation.
 
 
 ## References
