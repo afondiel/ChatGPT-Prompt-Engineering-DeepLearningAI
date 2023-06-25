@@ -7,7 +7,7 @@
 - LLM APIs can enable developers to very quickly build software applications
   
 ## Course Plan 
-- Some prompting best practices for software development 
+- Prompting best practices for software development 
 - Some common `use cases` :  
   - summarizing 
   - inferring
@@ -17,18 +17,19 @@
 
 ## Two types of LLMs
 
-- `Base LLMs` : predicts next words, based on text training data
+- `Base LLMs` : predicts next words, based on text training data (huge amount of text data from internet and another sources) to figure it out most likely word to follow
   - Ex : `what is the capital of France?`
     - What is France's largest city?
     - What is France's population?
     - What is the currency of France?
-- `Instruction Tuned LLMs` : Tries to follow instructions. Fine-tune on instructions and good attempts at following those instructions
-  - Ex: `what is the capital of France?`
-    - The capital of France is Paris
-  
-  - Base LLM + instruction fine-tuning (input/outputs)
-  - Instruction Tuned LLMs uses Reinforcement Learning with Human Feedback (RLHF) technique
-  - trained to be : Helpful, Honest , Harmless, safe*
+- `Instruction Tuned LLMs` : 
+  - Tries to follow instructions. 
+  - Fine-tune on instructions(input/outputs) and good attempts at following those instructions
+  - Uses Reinforcement Learning with Human Feedback (RLHF) technique
+  - Trained to be : Helpful, Honest , Harmless, safe*
+
+    - Ex: `what is the capital of France?`
+      - The capital of France is Paris
 
 
 # References
