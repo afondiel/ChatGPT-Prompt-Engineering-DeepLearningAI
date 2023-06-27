@@ -11,7 +11,7 @@ This crash & free course on ChatGPT Prompt Engineering is offered by [DeepLearni
 - [Lesson2: Guidelines](./l2-guidelines-notes.md)
 - [Lesson3: Iterative](./l3-iterative-prompt-dev.md)
 - [Lesson4: Summarizing](./l4-summarizing.md)
-- [Lesson5: Inferring](./l5-summarizing.md)
+- [Lesson5: Inferring](./l5-inferring.md)
 - [Lesson6: Transforming](./l6-transforming.md)
 - [Lesson7: Expanding](./l7-expanding.md)
 - [Lesson8: Chatbot](./l8-chatbot.md)
