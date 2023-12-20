@@ -1,4 +1,4 @@
-# Lesson1: Introduction
+# Lesson 1: Introduction
 
 ## Overview
 
@@ -6,7 +6,8 @@
 - The power of LLMs (Large Language Models), as a developer tool, that is using `API` calls 
 - LLM APIs can enable developers to very quickly build software applications
   
-## Course Plan 
+## Course Plan
+
 - Prompting best practices for software development 
 - Some common `use cases` :  
   - summarizing 
@@ -31,8 +32,18 @@
     - Ex: `what is the capital of France?`
       - The capital of France is Paris
 
+## TL;DR
 
-# References
+The 6 Prompt engineering strategies to get the best results from Large Language Models (LLMs):
+
+1. Write clear instructions
+2. Provide reference text
+3. Split complex tasks into simpler subtasks
+4. Give the model time to "think”
+5. Use external tools
+6. Test changes systematically👇
+
+## References
 
 Main Course : 
 - https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction
