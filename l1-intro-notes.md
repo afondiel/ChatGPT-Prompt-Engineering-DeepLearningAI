@@ -41,7 +41,7 @@ The 6 Prompt engineering strategies to get the best results from Large Language 
 3. Split complex tasks into simpler subtasks
 4. Give the model time to "think”
 5. Use external tools
-6. Test changes systematically👇
+6. Test changes systematically
 
 ## References
 
